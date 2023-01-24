@@ -3,6 +3,7 @@ import csv
 import matplotlib.pyplot as plt
 import Expense
 
+
 expenses = Expense.Expenses()
 expenses.read_expenses('spending_data.csv')
 divided_list_comp = expenses.divide_expenses_list_comp()

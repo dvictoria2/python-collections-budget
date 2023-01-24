@@ -26,3 +26,4 @@ ax.set_title('# of Purchases by Category')
 plt.show()
 
 
+

@@ -50,3 +50,4 @@ for category_exps in divided_list_comp:
 ax1.pie(divided_expenses_perc, labels=labels, autopct='%1.1f%%', shadow=True, startangle=90)
 
 plt.show()
+
